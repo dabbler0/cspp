@@ -1,0 +1,21 @@
+PROCEDURE countUntil (number)
+{
+  counter <- 0
+  REPEAT UNTIL counter > number
+  {
+    DISPLAY (counter)
+    counter <- counter + 1
+  }
+}
+
+PROCEDURE doubleCountUntil (number)
+{
+  counter <- 0
+  REPEAT UNTIL counter > number
+  {
+    countUntil (counter)
+    counter <- counter + 1
+  }
+}
+
+doubleCountUntil (10)
