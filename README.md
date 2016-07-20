@@ -15,5 +15,5 @@ Usage:
 ```
 
 This project has two aims:
-  - to define a usable grammar for a [Droplet](https://github.com/droplet-editor/droplet) mode for the CSP exam language
+  - to define a usable antlr4 grammar for a [Droplet](https://github.com/droplet-editor/droplet) mode for the CSP exam language
   - to make CSP exam language runnable, ideally with broad tracing and debugging capabilites, for CSP AP students.
