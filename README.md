@@ -1,4 +1,4 @@
-# A JavaScript interpreter for the CSP Exam Reference language
+# A JavaScript interpreter for the CSP exam language
 
 A tiny interpreter for the langauge defined on the exam reference sheet for the Computer Science Principles AP test. Documentation for this language is available [from CollegeBoard](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-and-exam-description.pdf) on page 121.
 
