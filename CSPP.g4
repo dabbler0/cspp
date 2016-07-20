@@ -1,3 +1,8 @@
+/*
+ * CSP exam language grammar.
+ * Copyright (c) 2016 Anthony Bau
+ * MIT License.
+ */
 grammar CSPP;
 
 block
